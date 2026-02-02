@@ -16,7 +16,7 @@
 
 Клонировать репозиторий:
 
-git clone https://github.com/Ivan-qwerty/uni_web_lab_1/tree/main
+git clone https://github.com/D1mchk/labs_web.git
 
 cd nginx-lab
 
